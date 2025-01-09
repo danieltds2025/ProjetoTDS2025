@@ -17,8 +17,8 @@ import javax.swing.table.TableRowSorter;
 public class TelaFuncionarios extends javax.swing.JFrame {
 
     /**
-     * ok
-     * método de cadastro
+     * 
+     * adicionando um comentário 
      */
     public TelaFuncionarios() {
         initComponents();
