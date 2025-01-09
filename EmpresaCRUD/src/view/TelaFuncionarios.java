@@ -17,7 +17,7 @@ import javax.swing.table.TableRowSorter;
 public class TelaFuncionarios extends javax.swing.JFrame {
 
     /**
-     * Creates new form TelaFuncionarios
+     * ok
      */
     public TelaFuncionarios() {
         initComponents();
