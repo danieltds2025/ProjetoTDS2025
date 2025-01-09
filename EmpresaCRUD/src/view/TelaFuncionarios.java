@@ -18,6 +18,7 @@ public class TelaFuncionarios extends javax.swing.JFrame {
 
     /**
      * ok
+     * método de cadastro
      */
     public TelaFuncionarios() {
         initComponents();
