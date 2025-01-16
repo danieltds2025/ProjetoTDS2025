@@ -54,8 +54,8 @@
                       <Group type="102" attributes="0">
                           <Component id="btnSalvar" min="-2" max="-2" attributes="0"/>
                           <EmptySpace type="separate" max="-2" attributes="0"/>
-                          <Component id="btnAtualizar" min="-2" pref="102" max="-2" attributes="0"/>
-                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="btnAtualizar" min="-2" pref="148" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
                           <Component id="btnExcluir" min="-2" pref="104" max="-2" attributes="0"/>
                       </Group>
                       <Group type="102" alignment="0" attributes="0">
@@ -211,7 +211,7 @@
         </Component>
         <Component class="javax.swing.JButton" name="btnAtualizar">
           <Properties>
-            <Property name="text" type="java.lang.String" value="ATUALIZAR"/>
+            <Property name="text" type="java.lang.String" value="ATUALIZAR DADOS"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnAtualizarActionPerformed"/>
