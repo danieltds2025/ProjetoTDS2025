@@ -96,7 +96,7 @@ public class TelaFuncionarios extends javax.swing.JFrame {
             }
         });
 
-        btnExcluir.setText("EXCLUIR");
+        btnExcluir.setText("EXCLUIR REG");
         btnExcluir.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnExcluirActionPerformed(evt);
