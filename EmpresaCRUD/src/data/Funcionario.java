@@ -7,7 +7,7 @@ import java.sql.Date;
 
 /**
  *
- * @author ADM
+ * Adicionar novos comentarios explicativos 
  */
 public class Funcionario {
     
