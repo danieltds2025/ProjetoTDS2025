@@ -69,7 +69,7 @@ public class TelaFuncionarios extends javax.swing.JFrame {
 
         jLabel6.setText("DATA NASC");
 
-        btnSalvar.setText("SALVAR");
+        btnSalvar.setText("SALVAR REG");
         btnSalvar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnSalvarActionPerformed(evt);
